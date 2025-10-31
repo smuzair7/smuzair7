@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Muhammad Uzair
-
 AI Engineer | NLP | Deep Learning | Data Systems
 
 ---
