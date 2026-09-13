@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Building+AI+systems+that+turn+unstructured+data+into+usable+answers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Building+AI+that+turns+raw+data+into+usable+answers" alt="Typing SVG" />
 
 </div>
 
