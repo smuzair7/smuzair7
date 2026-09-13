@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Uzair
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=1&pause=100000&color=00C6FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Muhammad+Uzair" alt="Muhammad Uzair" />
 
 <a href="https://www.linkedin.com/in/muhammad-uzair-a692b4288">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -9,10 +9,13 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=560&lines=Building+AI+systems+that+turn+unstructured+data+into+usable+answers;AI+Engineer;Python+%C2%B7+AWS" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Building+AI+systems+that+turn+unstructured+data+into+usable+answers" alt="Typing SVG" />
 
 </div>
 
+<br>
 <br>
 
 ## About
