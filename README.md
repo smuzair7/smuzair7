@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Muhammad%20Uzair&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20NLP&descAlignY=58&descSize=18" width="100%"/>
+# Muhammad Uzair
 
 <a href="https://www.linkedin.com/in/muhammad-uzair-a692b4288">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=560&lines=AI+Engineer;LLMs+%C2%B7+RAG+%C2%B7+NLP;Python+%C2%B7+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=560&lines=Building+AI+systems+that+turn+unstructured+data+into+usable+answers;AI+Engineer;Python+%C2%B7+AWS" alt="Typing SVG" />
 
 </div>
 
@@ -55,7 +55,6 @@ CS graduate, FAST-NUCES.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=smuzair7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smuzair7&theme=tokyonight&hide_border=true" height="165"/>
 
 <br>
 
