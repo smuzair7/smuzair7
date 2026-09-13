@@ -1,33 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-AI Engineer | NLP | Deep Learning | Data Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Muhammad%20Uzair&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20NLP&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/muhammad-uzair-a692b4288">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:smuzair71@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 👨‍💻 About Me
-AI Engineer with hands-on experience in building and deploying production-grade AI solutions.  
-My work centers on applied machine learning, NLP, and LLM-driven systems — focusing on reliability, scalability, and measurable business value.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=560&lines=AI+Engineer;LLMs+%C2%B7+RAG+%C2%B7+NLP;Python+%C2%B7+AWS" alt="Typing SVG" />
 
-Currently part of the **Data & Advisory team at KPMG Pakistan**, contributing to digital transformation through automation, document intelligence, and AI solutions.
+</div>
 
----
+<br>
 
-### 🧠 Interests
-- Applied Machine Learning & Deep Learning  
-- NLP, LLMs, and Knowledge Retrieval  
-- Data Engineering for AI systems  
-- Model Deployment & MLOps
+## About
 
----
+AI Engineer working on LLMs, RAG, and NLP.
 
-### ⚙️ Technical Stack
-**Languages:** Python, C++, SQL  
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Transformers, Keras   
+Currently at Zoneomics. Previously Associate Consultant, AI & Data at KPMG Pakistan.
 
+CS graduate, FAST-NUCES.
 
----
+<br>
 
-### 📫 Contact
-**Email:** smuzair71@gmail.com  
-**LinkedIn:** [muhammad-uzair-a692b4288](https://www.linkedin.com/in/muhammad-uzair-a692b4288)  
+## Skills
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-2E8B57?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=smuzair7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smuzair7&theme=tokyonight&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smuzair7&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-uzair-a692b4288">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:smuzair71@hotmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
