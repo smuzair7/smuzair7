@@ -26,18 +26,13 @@ Currently at Zoneomics. Previously Associate Consultant, AI & Data at KPMG Pakis
 
 CS graduate, FAST-NUCES.
 
+Contact:
+smuzair71@gmail.com
+
+https://www.linkedin.com/in/muhammad-uzair-a692b4288
+
 <br>
 
-
-
-<a href="https://www.linkedin.com/in/muhammad-uzair-a692b4288">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:smuzair71@hotmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
